@@ -1,0 +1,4 @@
+interface:
+  display_name: "시험 성적 분석 보고서"
+  short_description: "시험 점수를 검증하고 반별 그래프와 간결한 한국어 Word 보고서 작성"
+  default_prompt: "$exam-results-report로 첨부한 시험 성적을 분석하고 그래프가 포함된 간결한 Word 보고서를 작성해줘."
